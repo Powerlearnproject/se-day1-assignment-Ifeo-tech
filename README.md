@@ -26,7 +26,7 @@ design - building the framework.
 **Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.**
 
 1. Linearity vs. Iteration: Waterfall is linear and sequential, while Agile is iterative and incremental.
-2. Flexibility: Agile offers high flexibility, adapting to changing requirements, whereas Waterfall has low flexibility, making changes difficult once a phase is complete.
+2. Flexibility: Agile offers high flexibility, adapting to changing requirements, whereas Waterfall has low flexibility, making changes difficult once a phase is complete
 3. Customer Feedback: Agile incorporates regular customer feedback into every sprint, while Waterfall receives customer feedback late, after the product is developed.
 4. Testing: Agile testing is continuous and done after each iteration, whereas Waterfall testing is done at the end of the development process.
 
